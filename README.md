@@ -6,7 +6,7 @@
 
 **DATE CREATED**: Summer 2018
 
-View a demo of this app [here](https://youtu.be/TExW1SkSatM).
+View a demo of this app [here](https://youtu.be/YqUhm46WkBk).
 
 This app was created using Java and PApplet. It includes implementation to save the high scores so that the
 user can see how they compare.
