@@ -1,6 +1,6 @@
 **PROJECT NAME**: Bee World
 
-**AUTHORS**: Nina Huang
+**AUTHOR**: Nina Huang
 
 **DESCRIPTION**: Control a bee, collect honey from flowers, shoot honey at wasps, and collect upgrades!
 
